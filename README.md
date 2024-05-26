@@ -12,6 +12,7 @@ Hello there! I'm JujakPRO, an amateur developer. My vision and ambition lie in b
 
 - 인천대학교 정보통신공학과 재학 중
 - Currently enrolled in the Department of Information Telecommunication Engineering at Incheon National University.
+- 
 - 주로 다루는 프로그래밍 언어:
 - The programming languages I mainly work with are:
   - C
