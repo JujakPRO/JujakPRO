@@ -9,7 +9,7 @@
 
 주로 다루는 프로그래밍 언어는 다음과 같습니다.
 C, C++, Python, Swift, BatchFile
-<!--
+
 ## Project
 Reveil (iOS 보안 분석 도구) 한글화 작업
 RevengeWare
