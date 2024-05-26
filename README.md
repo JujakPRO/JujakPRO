@@ -15,10 +15,10 @@
 #### Ongoing Projects
 
 ##### Reveil (iOS 보안 분석 도구) 한글화 작업
-- [GitHub 링크](링크)
+- [Reveil Security] (https://github.com/Lessica/Reveil)
 
 ###### RevengeWare
-- [GitHub 링크](링크)
+- [RevengeWare] (https://github.com/JujakPRO/RevengeWare)
 
-더 많은 프로젝트 및 정보를 원하신다면 [제 GitHub 프로필](GitHub 프로필 링크)을 방문해주세요!
+더 많은 프로젝트 및 정보를 원하신다면 [제 GitHub 프로필](https://github.com/JujakPRO)을 방문해주세요!
 
