@@ -33,6 +33,7 @@ Hello there! I'm JujakPRO, an amateur (noob) developer. My vision and ambition l
 
 # TODO
   프로필 소개글 수정하기
-
+  
+# 소개를 끝마치며
 더 많은 프로젝트 및 정보를 원하신다면 [제 GitHub 프로필](https://github.com/JujakPRO)을 방문해주세요!
 If you want more projects and information, please visit [my GitHub profile!](https://github.com/JujakPRO)
