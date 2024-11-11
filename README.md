@@ -2,6 +2,7 @@
 
 ## 나는 뭐 하는 놈인가? / Who am I?
 안녕하세요. 아마추어 (개초보) 개발자 JujakPRO입니다! 개발자/보안 연구원으로써 세상에 긍정적인 변화를 가져오고자 함은 저의 비전이자 야망입니다.
+
 Hello there! I'm JujakPRO, an amateur (noob) developer. My vision and ambition lie in bringing positive changes to the world as a developer/security researcher.
 
 ### 프로필 / Profile
