@@ -23,7 +23,7 @@ My vision is to be a developer who changes the world.
 
 # Ability
 ## Languages
-![C Badge](https://img.shields.io/badge/C-2%2F10-skyblue) ![C++ Badge](https://img.shields.io/badge/C++-2%2F10-blue) ![Python Badge](https://img.shields.io/badge/Python-3%2F10-yellow) ![Swift Badge](https://img.shields.io/badge/Swift-2%2F10-orange) ![HTML Badge](https://img.shields.io/badge/HTML-2%2F10-orange) ![Batchfile Badge](https://img.shields.io/badge/Batch-5%2F10-gray)
+![C Badge](https://img.shields.io/badge/C-2%2F10-skyblue) ![C++ Badge](https://img.shields.io/badge/C++-2%2F10-blue) ![Java Badge](https://img.shields.io/badge/Java-4%2F10-red) ![Python Badge](https://img.shields.io/badge/Python-3%2F10-yellow) ![Swift Badge](https://img.shields.io/badge/Swift-2%2F10-orange) ![HTML Badge](https://img.shields.io/badge/HTML-2%2F10-orange) ![Batchfile Badge](https://img.shields.io/badge/Batch-5%2F10-gray)
 
 ## Design Tools
 ![Preimere Pro Badge](https://img.shields.io/badge/Premiere_Pro-6%2F10-purple) ![Photoshop Badge](https://img.shields.io/badge/Photoshop-5%2F10-blue) ![After Effects Badge](https://img.shields.io/badge/After_Effects-2%2F10-purple)
