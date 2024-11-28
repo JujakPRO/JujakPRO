@@ -16,10 +16,10 @@ My vision is to be a developer who changes the world.
 
 # Projects
 ## iOS Projects
-- Reveil (iOS Security Analysis tool) Korean localization work, ..and more
+- [Reveil](https://github.com/Lessica/Reveil) (iOS Security Analysis tool) Korean localization work, ..and more
 
 ## ETC Projects
-- RevengeWare (Batchfile based-on malware)
+- [RevengeWare](https://github.com/JujakPRO/RevengeWare) (Batchfile based-on malware)
 
 # Ability
 ## Languages
