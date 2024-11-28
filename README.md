@@ -32,5 +32,5 @@ My vision is to be a developer who changes the world.
 ## Apple
 - MacBook Pro (16-inch, 2021, Space Gray, M1 Max, 32C GPU, 32GB RAM)
 - iPhone 16 Pro Max (White Titanium, 512GB Storage, running iOS 18.0 (22A3351))
-- iPhone 12 Pro (Silver, running iOS 15.7.1 (19H117), with TrollStore installed)
-- iPad Pro (11-inch, 2020, Space Gray, running iPadOS 17.0 (21A329), with TrollStore installed)
+- iPhone 12 Pro (Silver, running iOS 15.7.1 (19H117), with TrollStore installed, Dylib injection capable)
+- iPad Pro (11-inch, 2020, Space Gray, running iPadOS 17.0 (21A329), with TrollStore installed, Dylib injection capable)
