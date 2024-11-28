@@ -1,33 +1,36 @@
-# 안녕하세요! 👋 / Hello There! 👋
+# JujakPRO, Junho Choi
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JujakPRO&show_icons=true&theme=radical)
 
-## 나는 뭐 하는 놈인가? / Who am I?
-안녕하세요. 아마추어 (개초보) 개발자 JujakPRO입니다! 개발자/보안 연구원으로써 세상에 긍정적인 변화를 가져오고자 함은 저의 비전이자 야망입니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jujakpro)](https://solved.ac/jujakpro/)  
 
-Hello there! I'm JujakPRO, an amateur (noob) developer. My vision and ambition lie in bringing positive changes to the world as a developer/security researcher.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJujakPRO%2Fhit-counter&count_bg=%2306BAE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:backup040490@gmail.com)](backup040490@gmail.com)
 
-### 프로필 / Profile
-- 인천대학교 정보통신공학과 재학 중
-- Currently enrolled in the Department of Information Telecommunication Engineering at Incheon National University.
-  
-- 주로 다루는 프로그래밍 언어:
-- The programming languages I mainly work with are:
-  - C
-  - C++
-  - Python
-  - Swift
-  - BatchFile
+# Hello there!
+## Who am I?
 
-#### 진행 중인 프로젝트 / Ongoing Projects
+My real name is Junho Choi.
+- I am studying at Incheon National University.
+- My major is Information Telecommuication Engineering.
 
-##### Reveil (iOS 보안 분석 도구) 한글화 작업 / Reveil (iOS Security Analysis tool) Korean localization work
-- [Reveil Security](https://github.com/Lessica/Reveil)
+My vision is to be a developer who changes the world.
 
-###### RevengeWare
-- [RevengeWare](https://github.com/JujakPRO/RevengeWare)
+# Projects
+## iOS Projects
+- Reveil (iOS Security Analysis tool) Korean localization work, ..and more
 
-# TODO
-  프로필 소개글 수정하기
-  
-# 소개를 끝마치며
-더 많은 프로젝트 및 정보를 원하신다면 [제 GitHub 프로필](https://github.com/JujakPRO)을 방문해주세요!
-If you want more projects and information, please visit [my GitHub profile!](https://github.com/JujakPRO)
+## ETC Projects
+- RevengeWare (Batchfile based-on malware)
+
+# Ability
+## Languages
+![C Badge](https://img.shields.io/badge/C-2%2F10-skyblue) ![C++ Badge](https://img.shields.io/badge/C++-2%2F10-blue) ![Python Badge](https://img.shields.io/badge/Python-3%2F10-yellow) ![Swift Badge](https://img.shields.io/badge/Swift-2%2F10-orange) ![HTML Badge](https://img.shields.io/badge/HTML-2%2F10-orange) ![Batchfile Badge](https://img.shields.io/badge/Batch-5%2F10-gray)
+
+## Design Tools
+![Preimere Pro Badge](https://img.shields.io/badge/Premiere_Pro-6%2F10-purple) ![Photoshop Badge](https://img.shields.io/badge/Photoshop-5%2F10-blue) ![After Effects Badge](https://img.shields.io/badge/After_Effects-2%2F10-purple)
+
+# My devices
+## Apple
+- MacBook Pro (16-inch, 2021, Space Gray, M1 Max, 32C GPU, 32GB RAM)
+- iPhone 16 Pro Max (White Titanium, 512GB Storage, running iOS 18.0 (22A3351))
+- iPhone 12 Pro (Silver, running iOS 15.7.1 (19H117), with TrollStore installed)
+- iPad Pro (11-inch, 2020, Space Gray, running iPadOS 17.0 (21A329), with TrollStore installed)
