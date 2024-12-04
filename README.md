@@ -19,7 +19,7 @@ My vision is to be a developer who changes the world.
 - [Reveil](https://github.com/Lessica/Reveil) (iOS Security Analysis tool) Korean localization work, ..and more
 
 ## ETC Projects
-- [RevengeWare](https://github.com/JujakPRO/RevengeWare) (Batchfile-based malware)
+- [RevengeWare](https://github.com/JujakPRO/RevengeWare) (Batchfile-based console malware)
 
 # Ability
 ## Languages
